@@ -1,5 +1,4 @@
-# SOURCE CODE IN SPOJ PTIT
-Just all hoaf13's sources from SPOJ PTIT.
+# Ai chép cho SPOJ_TOURNAMENT biết hết nhé. :)))
 
 *Author*: [hoaf13](https://www.spoj.com/PTIT/users/hoaf13/)
 
